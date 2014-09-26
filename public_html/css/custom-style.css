@@ -11,3 +11,22 @@ div {
     background-color: red;
     color: white;
 }
+.letters {
+    font-size: 18px;
+    color: white;
+}
+.padding {
+    padding-top: 30px;
+}
+.aboutTab {
+    background-color: orangered;
+    color: black;
+}
+.projectTab {
+    background-color: #009900;
+    color: black;
+}
+.techTab {
+    background-color: #0066cc;
+    color: black;
+}

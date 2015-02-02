@@ -1,6 +1,6 @@
 $("document").ready(function() {
 
-    $(".yeah").css("background-color", "silver");
+    $(".yeah").css("background-color", "green");
 
     $(".projectColor").css("background-color", "lightblue");
 
@@ -56,7 +56,7 @@ function hideTheImagev2() {
 }
 
 $("document").ready(function() {
-    $(".red").css("background-color", "darkblue");
+    $(".red").css("background-color", "green");
 });
 
 $("document").ready(function() {
